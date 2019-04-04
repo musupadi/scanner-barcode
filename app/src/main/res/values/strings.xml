@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRCodeCameraBarcode</string>
+    <string name="result_text_default">Please Focus camera to QR Code</string>
+</resources>
